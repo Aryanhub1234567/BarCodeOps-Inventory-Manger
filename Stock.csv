@@ -1,0 +1,13 @@
+id,barcode,product_name,quantity,price,type
+1,1234567890,Wireless charger,2,499.0,Mobile Accessories
+2,9876543210,charger C Type,11,599.0,Mobile Accessories
+5,8901234567890,Wireless Mouse,25,699.0,Computer Accessory
+6,8909876543210,USB-C Charging Cable,50,299.0,Mobile Accessory
+7,8901122334455,Bluetooth Speaker,15,2499.0,Electronic Gadget
+8,8909988776655,Laptop Cooling Pad,20,1199.0,Computer Accessory
+9,8904433221100,Gaming Keyboard,12,3499.0,Computer Accessory
+10,8905678901234,Smartwatch Strap,40,499.0,Mobile Accessory
+11,8907766554433,Power Bank 20000mAh,18,1699.0,Electronic Gadget
+12,8903344556677,Wireless Earbuds,22,2299.0,Electronic Gadget
+13,8902211334455,External Hard Drive 1TB,10,4299.0,Computer Accessory
+14,8906655443322,Mobile Holder for Car,35,399.0,Mobile Accessory
